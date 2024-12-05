@@ -11,6 +11,22 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
+   {
+        name: `money log`,
+        href: "https://github.com/yulily/ab",
+    },
+    {
+        name: `Lyric Animation by TextAlive`,
+        href: "https://github.com/yulily/textaliveForMiku",
+    },
+    {
+        name: `drawing app 2nd`,
+        href: "https://github.com/yulily/dessin",
+    },
+    {
+        name: `drawing app 1st`,
+        href: "https://github.com/yulily/collage",
+    }
   ],
   // blog setting (required)
   blog: {
