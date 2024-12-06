@@ -5,7 +5,7 @@ const CONFIG = {
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "developer",
     bio: "",
-    email: "",
+    email: "yulily.iris@gmail.com",
     linkedin: "",
     github: "https://github.com/yulily",
     instagram: "",
@@ -38,13 +38,13 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "log",
-    description: "welcome to morethan-log!",
+    title: "Iris",
+    description: "I will be sharing the technical knowledge I've learned.",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://yulily-blog.vercel.app",
   since: 2015, // If leave this empty, current year will be used.
   lang: "ja-JP", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
