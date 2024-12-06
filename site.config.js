@@ -12,19 +12,19 @@ const CONFIG = {
   },
   projects: [
    {
-        name: `money log`,
+        name: 'money log',
         href: "https://github.com/yulily/ab",
     },
     {
-        name: `Lyric Animation by TextAlive`,
+        name: 'Lyric Animation by TextAlive',
         href: "https://github.com/yulily/textaliveForMiku",
     },
     {
-        name: `drawing app 2nd`,
+        name: 'drawing app 2nd',
         href: "https://github.com/yulily/dessin",
     },
     {
-        name: `drawing app 1st`,
+        name: 'drawing app 1st',
         href: "https://github.com/yulily/collage",
     }
   ],
