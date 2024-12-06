@@ -12,15 +12,15 @@ const CONFIG = {
   },
   projects: [
    {
-        name: 'astro site',
+        name: 'Astro Site',
         href: "https://yulily.github.io/murmur/",
    },
    {
-        name: 'middleman blog',
+        name: 'Middleman Blog',
         href: "https://yulily.github.io/",
    },
    {
-        name: 'money log',
+        name: 'Money Log',
         href: "https://github.com/yulily/ab",
     },
     {
@@ -28,11 +28,11 @@ const CONFIG = {
         href: "https://github.com/yulily/textaliveForMiku",
     },
     {
-        name: 'drawing app 2nd',
+        name: '2nd Drawing App',
         href: "https://github.com/yulily/dessin",
     },
     {
-        name: 'drawing app 1st',
+        name: '1st Drawing App',
         href: "https://github.com/yulily/collage",
     }
   ],
