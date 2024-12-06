@@ -7,6 +7,11 @@ interface Props extends InputHTMLAttributes<HTMLInputElement> {}
 const SearchInput: React.FC<Props> = ({ ...props }) => {
   return (
     <StyledWrapper>
+       <img
+         className="header-image"
+         src="/header.png"
+         alt="Site Image"
+       />
       <div className="top">
         <Emoji>🔎</Emoji> Search
       </div>
@@ -28,6 +33,15 @@ const StyledWrapper = styled.div`
   @media (min-width: 768px) {
     margin-bottom: 2rem;
   }
+
+   .header-image {
+      width: 100%;
+      height: auto;
+      max-height: 300px;
+      object-fit: cover;
+      margin-bottom: 1rem;
+   }
+
   > .top {
     padding: 0.25rem;
     margin-bottom: 0.75rem;

@@ -2,15 +2,23 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "yulily",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "developer",
     bio: "",
     email: "",
     linkedin: "",
-    github: "",
+    github: "https://github.com/yulily",
     instagram: "",
   },
   projects: [
+   {
+        name: 'astro site',
+        href: "https://yulily.github.io/murmur/",
+   },
+   {
+        name: 'middleman blog',
+        href: "https://yulily.github.io/",
+   },
    {
         name: 'money log',
         href: "https://github.com/yulily/ab",
