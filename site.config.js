@@ -11,6 +11,10 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
+    {
+        name: '3rd Drawing App',
+        href: "https://be-color.vercel.app/",
+    },
    {
         name: 'Astro Site',
         href: "https://yulily.github.io/murmur/",
